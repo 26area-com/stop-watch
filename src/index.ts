@@ -6,4 +6,4 @@ export {
   StopWatch,
   Duration,
   sleep
-}
+};
