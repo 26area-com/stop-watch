@@ -1,11 +1,13 @@
 {
   "name": "@26area/stop-watch",
-  "version": "0.0.1-SNAPSHOT-1",
+  "maintainers": ["knightpop"],
+  "version": "0.0.1",
   "description": "Simple stopwatch to check performance by typescript.",
-  "repository": "https://github.com/26area-com/stop-watch",,
+  "repository": "https://github.com/26area-com/stop-watch",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
   "scripts": {
+    "tslint": "tslint --fix src/**/*.ts",
     "prepublish": "tsc",
     "build": "tsc"
   },

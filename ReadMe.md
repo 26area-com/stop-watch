@@ -1,4 +1,4 @@
-#Simple Stop Watch
+# Simple Stop Watch
 
 This is simple stop watch to measure performance by typescript.
 
