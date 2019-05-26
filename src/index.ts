@@ -1,6 +1,6 @@
 import { StopWatch } from './StopWatch';
 import { Duration } from './model/Duration';
-import { sleep } from './Sleep';
+import { sleep } from './sleep';
 
 export {
   StopWatch,
